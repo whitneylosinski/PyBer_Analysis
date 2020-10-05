@@ -45,9 +45,11 @@ The results of the ride sharing analysis summary below show that ride sharing is
 ![Weekly_Fares Chart](Analysis/Fig8.png)
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary:
 
-Based on the data, I have three business recommendations to address disparities among the city types.  My recommendations are as follows:
-  1. Reduce the number of drivers in urban cities. - There are more drivers in urban cities than there are total rides which is driving the average fare per driver way down and likely also reducing the  
-  2. Increase fares in urban cities. - There seems to be a higher demand for ride sharing in urban areas 
-  3. Reduce fares in suburban and rural cities. - 
+Based on the data, I have three business recommendations which address disparities among the city types.  My recommendations are as follows:
+
+  1. **Reduce the number of drivers in urban cities.** There were more drivers in urban cities than there were total rides.  This makes ride sharing very accessible in urban neighborhoods but it is driving down the average fare per driver.
+  2. **Add drivers in rural and urban neighborhoods.** There were more rides than drivers in suburban and rural cities.  Because of this, it's possible that there were other customers who wanted rides but were unable to gain access to a driver.  Increasing the number of drivers would improve accessibility in suburban and rural areas, leading to more rides and an increase in total fares.
+  3. **Reduce fares in suburban and rural cities.** - Suburban and rural cities have higher average fare prices per ride than those in urban cities.  Making ride sharing more affordable to suburban and rural neighborhoods may widen the customer base, creating more riders who use the service.  This would lead to an increase in total rides and possibly an increase in total fares for suburban and rural neighborhoods.
+  
