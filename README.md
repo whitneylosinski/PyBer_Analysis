@@ -18,7 +18,7 @@ The purpose of this project is to perform an exploratory analysis and create com
         1. Percent of total fares
         2. Percent of total rides
         3. Percent of total drivers
-   6. A line chart that visualizes the total weekly fares for each city type. 
+   6. A line graph that visualizes the total weekly fares for each city type. 
 
 ## Resources:
 * Data sorces: city_data.csv, ride_data.csv
@@ -30,20 +30,25 @@ The results of the ride sharing analysis summary below show that ride sharing is
 
 ![Ride_Sharing_Summary](Analysis/summary.png)
 
-The following bubble chart shows a comparison of the average fare versus the total number of rides for each city type.  The bubble size also provides a visual comparison of how the number of drivers in each city correlates to the data.  The chart below shows that cheaper fares correlate to a higher number of rides while higher fares typically have a lower number of rides.  
+The following bubble chart shows a comparison of the average fare versus the total number of rides for each city type.  The bubble sizes also provide a visual comparison of how the number of drivers in each city correlates to the data.  The chart below shows that cheaper fares correlate to a higher number of rides while higher fares typically have a lower number of rides.  
 
 ![Bubbble_chart](Analysis/Fig1.png)
 
-| a | b |
+The box and whisker plots below were used to determine if there were any outliers in the data.  The first plot of the ride count data shows that there was one outlier in the data for urban cities.  The outlier had 39 rides over the time period that the data was collected.
+
+|  |  |
 |:----|:----|
 | ![Total_Fares Stats](Analysis/Fig2.png) | ![Total_Rides_Stats](Analysis/Fig3.png) |
 | ![Total_Drivers_Stats](Analysis/Fig4.png) | |
 
+The pie charts below show the percentage of total fares, total rides and total drivers for each city type.  It is clear from the charts that urban areas hold the highest percentage of each metric while rural areas hold the lowest percentage.  A closer look, when comparing the total rides and total drivers charts, also reveals that the number of drivers could likely be better aligned with the number of rides for each city type.
 
-| a | b |
+|  |  |
 |:----|:----|
 | ![Total_Fares Pie](Analysis/Fig5.png) | ![Total_Rides_Pie](Analysis/Fig6.png) |
 | ![Total_Drivers_Pie](Analysis/Fig7.png) | |
+
+The following line graph shows a comparison of the weekly total fares per city type.  The graph shows that allow the city types tend to follow a somewhat similar pattern for the total fares from week to week, urban cities collect a highest volume of fares with suburban cities collecting the next highest volume and rural cities collecting the least amount of fares. 
 
 ![Weekly_Fares Chart](Analysis/Fig8.png)
 
