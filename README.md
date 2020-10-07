@@ -24,7 +24,7 @@ The purpose of this project is to perform an exploratory analysis and create com
 * Data sorces: city_data.csv, ride_data.csv
 * Software: Python 3.8.3, Jupyter Notebook (anaconda3)
 
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results:
 
 The results of the ride sharing analysis summary below show that ride sharing is much more common and quite a bit cheaper in urban areas than in suburban or rural areas.  For the time period of January 2019 to early May 2019 captured by the data, there were 1,625 total rides shared in urban cities and only 125 in rural cities.  When comparing the total number of drivers in each city type, the data showed that urban cities had far more drivers (2,405) than suburban (490) or rural (78) cities.  In fact, urban cities were the only city type that had more drivers than total rides for the time period analyzed.  Additionally, from the summary the data shows that urban cities brought in 2 times as much fare revenue as suburban cities and 9 times as much as rural cities, but the average fare per ride is actually lowest in urban cities.  Both the average fare per ride and per driver were highest in rural cities and lowest in urban cities.
 
