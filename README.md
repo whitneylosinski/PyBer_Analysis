@@ -34,12 +34,13 @@ The following bubble chart shows a comparison of the average fare versus the tot
 
 ![Bubbble_chart](Analysis/Fig1.png)
 
-The box and whisker plots below were used to determine if there were any outliers in the data.  The first plot of the ride count data shows that there was one outlier in the data for urban cities.  The outlier had 39 rides over the time period that the data was collected.
+Below are the mean, median and mode statistics for each city type for the ride count, fares and driver count metrics.  The data shows that  
 
 | Ride Count Statistics  | Fares Statistics |  Driver Count Statistics |
 |:----|:----|:----|
-| ![Ride_Count_stats](Analysis/Ride_Count_Stats) | ![Fares_stats](Analysis/Fare_Stats) | ![Drivers_stats](Analysis/Driver_Stats)
+| ![Ride_Count_stats](Analysis/Ride_Count_Stats.png) | ![Fares_stats](Analysis/Fare_Stats.png) | ![Drivers_stats](Analysis/Driver_Stats.png)
 
+The box and whisker plots below were used to determine if there were any outliers in the data.  The first plot of the ride count data shows that there was one outlier in the data for urban cities.  The outlier had 39 rides over the time period that the data was collected.
 
 |  |  |
 |:----|:----|
