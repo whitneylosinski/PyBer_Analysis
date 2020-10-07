@@ -28,7 +28,7 @@ The purpose of this project is to perform an exploratory analysis and create com
 
 The results of the ride sharing analysis summary below show that ride sharing is much more common and quite a bit cheaper in urban areas than in suburban or rural areas.  For the time period of January 2019 to early May 2019 captured by the data, there were 1,625 total rides shared in urban cities and only 125 in rural cities.  When comparing the total number of drivers in each city type, the data showed that urban cities had far more drivers (2,405) than suburban (490) or rural (78) cities.  In fact, urban cities were the only city type that had more drivers than total rides for the time period analyzed.  Additionally, from the summary the data shows that urban cities brought in 2 times as much fare revenue as suburban cities and 9 times as much as rural cities, but the average fare per ride is actually lowest in urban cities.  Both the average fare per ride and per driver were highest in rural cities and lowest in urban cities.
 
-![Ride_Sharing_Summary](Analysis/summary.png)
+![Ride_Sharing_Summary](Analysis/Summary.png)
 
 The following bubble chart shows a comparison of the average fare versus the total number of rides for each city type.  The bubble sizes also provide a visual comparison of how the number of drivers in each city correlates to the data.  The chart below shows that cheaper fares correlate to a higher number of rides while higher fares typically have a lower number of rides.  
 
@@ -43,10 +43,9 @@ The box and whisker plots below were used to determine if there were any outlier
 
 The pie charts below show the percentage of total fares, total rides and total drivers for each city type.  It is clear from the charts that urban areas hold the highest percentage of each metric while rural areas hold the lowest percentage.  A closer look, when comparing the total rides and total drivers charts, also reveals that the number of drivers could likely be better aligned with the number of rides for each city type.
 
-|  |  |
-|:----|:----|
-| ![Total_Fares Pie](Analysis/Fig5.png) | ![Total_Rides_Pie](Analysis/Fig6.png) |
-| ![Total_Drivers_Pie](Analysis/Fig7.png) | |
+|  |  |   |
+|:----|:----|:----|
+| ![Total_Fares Pie](Analysis/Fig5.png) | ![Total_Rides_Pie](Analysis/Fig6.png) | ![Total_Drivers_Pie](Analysis/Fig7.png) |
 
 The following line graph shows a comparison of the weekly total fares per city type.  The graph shows that allow the city types tend to follow a somewhat similar pattern for the total fares from week to week, urban cities collect a highest volume of fares with suburban cities collecting the next highest volume and rural cities collecting the least amount of fares. 
 
